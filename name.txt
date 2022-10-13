@@ -9,4 +9,4 @@ adrshcode
 AdrshCode
 Vishnu14
 sds
-py test
+python test
